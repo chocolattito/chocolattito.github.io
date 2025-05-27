@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Chocolattype";
+    src:url("../font/main.ttf") format('truetype');
+}
+@font-face {
+    font-family: "Chocolabody";
+    src:url("../font/body.ttf") format('truetype');
+}
+
+body {
+    background-color: #16131a;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-family: Chocolattype;
+    font-weight: 100;
+    font-size: 100px;
+    margin: 0;
+}
+
+p {
+    font-family: Chocolabody;
+    font-size: 24px;
+    margin: 0;
+}
